@@ -8,8 +8,8 @@
     
     To view the source code, see the `src/` folder on the official GitHub repository.
     
-    Author: Footagesus (Footages, .ftgs, oftgs)
-    Github: https://github.com/Footagesus/WindUI
+    Author: AdityaNugrahaInside (Footages, .ftgs, oftgs)
+    Github: https://github.com/AdityaNugrahaInside/WindUI
     Discord: https://discord.gg/ftgs-development-hub-1300692552005189632
     License: MIT
 ]]
@@ -73,7 +73,7 @@ local h=b(game:GetService"HttpService")local i=
 
 d.Heartbeat
 
-local j="https://raw.githubusercontent.com/Footagesus/Icons/main/Main-v2.lua"
+local j="https://raw.githubusercontent.com/AdityaNugrahaInside/Icons/main/Main-v2.lua"
 
 local l=loadstring(
 game.HttpGetAsync and game:HttpGetAsync(j)
@@ -1531,9 +1531,9 @@ return[[
     "name": "windui",
     "version": "1.6.62",
     "main": "./dist/main.lua",
-    "repository": "https://github.com/Footagesus/WindUI",
+    "repository": "https://github.com/AdityaNugrahaInside/WindUI",
     "discord": "https://discord.gg/ftgs-development-hub-1300692552005189632",
-    "author": "Footagesus",
+    "author": "AdityaNugrahaInside",
     "description": "Roblox UI Library for scripts",
     "license": "MIT",
     "scripts": {
